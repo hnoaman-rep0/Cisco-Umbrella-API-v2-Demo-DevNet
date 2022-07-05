@@ -92,4 +92,4 @@ For more resources on Umbrella API's  you may refer to the following learning la
 
 ## License
 
-This source code is provided under MIT License, for details see [LICENSE](./LICENSE)
+This source code is provided under Cisco Sample Code License, Version 1.1 License, for details see [Cisco Sample Code License, Version 1.1](./LICENSE.md)
