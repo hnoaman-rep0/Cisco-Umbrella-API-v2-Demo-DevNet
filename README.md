@@ -41,7 +41,7 @@ If you would like to modify the application and add further graphs consider regi
 
 ![](2022-07-05-21-34-49.png)
 
-### Once imported, you can start modifying the application and adding your own graphs and deploying it to start using the application.  
+Once imported, you can start modifying the application and adding your own graphs and deploying it to start using the application.   
   
 
 ![](2022-07-05-21-38-05.png)
@@ -92,7 +92,7 @@ You will be provided by the dashboard that contains the following graphs:
 
 ![](2022-07-05-21-52-47.png)
 
-## disclaimer
+## Disclaimer
 
 
 Upon providing your Cisco Umbrella reporting key id and secret, please be aware that these credentials are going to some sort of backend hosted in appsmith instances.  
