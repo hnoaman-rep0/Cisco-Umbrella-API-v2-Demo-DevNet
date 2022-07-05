@@ -34,7 +34,7 @@ The scope of this application is show case some of Cisco Umbrella Reporting API 
 
 ## Usage
 
-### The online application that is ready to be used, can be accessed by [click here](https://app.appsmith.com/applications/62b5f41920ae3225cef1ca55/pages/62b6a0cb20ae3225cef1f091?embed=true)
+### The online application that is ready to be used, can be accessed by [clicking here](https://app.appsmith.com/applications/62b5f41920ae3225cef1ca55/pages/62b6a0cb20ae3225cef1f091?embed=true)
 
 ### The landing page is the login page, where you need to provide your Umbrella ORG ID, Reporting Key, and Reporting API Secret.
 ### Upon providing them click submit
