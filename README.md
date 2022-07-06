@@ -54,6 +54,16 @@ The online application that is ready to be used, can be accessed by [clicking he
 
 The landing page is the login page, where you need to provide your Umbrella ORG ID, Reporting Key, and Reporting API Secret.  
 
+How to get Cisco Umbrella ORG ID can be found [here](https://docs.umbrella.com/deployment-umbrella/docs/find-your-organization-id#:~:text=Procedure,listed%20under%20your%20account%20name.)
+
+How to generate Umbrella Reporting key and secret can be found [here](https://developer.cisco.com/docs/cloud-security/#!reporting-v2-introduction-authentication/log-into-umbrella), below are the steps:  
+- Log into Umbrella and create a key and secret  
+- In Umbrella, navigate to Admin > API Keys and click Create;  
+or in a management console (Multi-org, MSP, or MSSP), navigate to Settings > API Keys and click Add.   
+- Select Umbrella Reporting and click Generate Token.  
+- Expand Umbrella Reporting and copy Your Key and Your Secret.  
+- Click To keep it secure, ... check box and then click Close.  
+
 Upon providing them click submit  
 
 ![](2022-07-05-21-43-53.png)
