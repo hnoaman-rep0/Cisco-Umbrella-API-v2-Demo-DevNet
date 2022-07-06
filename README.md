@@ -110,7 +110,7 @@ As mentioned in Appsmith's [documentations](https://docs.appsmith.com/security)
 
 If you are still concerned about the confidentiality of your credentials consider creating a hosted on-prem containerized instance of Appsmith and import your applications there.  
 
-Further resources on how to create containerized version of appsmith can be found [here](https://docs.appsmith.com/widget-reference/container)  
+Further resources on how to create containerized version of appsmith can be found [here](https://docs.appsmith.com/setup/docker)  
 
 
 ## Links to DevNet Learning Labs
